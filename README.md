@@ -10,7 +10,7 @@ Minecraft game clone, game challenge project
 
 ## GamePlay
 
-![GamePlay](https://i.imgur.com/fTj3nQQ.png)
+![GamePlay](https://i.imgur.com/OoFiPgw.png)
 
 ## Installation
 
