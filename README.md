@@ -5,12 +5,10 @@ Minecraft game clone, game challenge project
 ## Demo
 [Demo version 0.1.0](https://madrigal.pro/demo/minecraft/)
 
+![GamePlay](https://i.imgur.com/OoFiPgw.png)
+
 ## Prerequisites
 - **Unity 2019** - Unity is a cross-platform game engine.
-
-## GamePlay
-
-![GamePlay](https://i.imgur.com/OoFiPgw.png)
 
 ## Installation
 
